@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+	<style type="text/css">
+		.center{
+			margin: auto;
+  			width: 50%;
+  			border: 3px solid green;
+  			padding: 50px;
+  			text-align: center;
+  			vertical-align: middle;
+  			height: 150px;
+  			background-color: blue;
+		}
+
+	</style>
+</head>
+
+<div class="center">
+<p>Enter your age.</p>
+
+<form>
+		<input type="text" id="age">
+</form>
+
+<button onclick="myFunction()">Ok</button>
+</div>
+<script>
+
+function myFunction() {
+	x = document.getElementById("age").value;
+    
+    y = parseInt(x);
+    if(y<=50){
+  		alert("Junior");
+    }
+    else{
+  		alert("Senior");
+	}
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+.box
+{
+	border: 1px solid black;
+	padding: 5px;
+	background-color: black;
+	box-shadow: 29px 18px 21px;
+
+}
+.icon a
+{
+	width: 50px;
+	color: white;
+	padding-left: 1px;
+
+}
+
+ul{
+	float: right;
+	font-family: candara;
+	font-size: 17px;
+}
+ul li
+{
+	float: left;
+	width: 120px;
+	text-decoration: none;
+	list-style-type: none;
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+
+}
+ul li a:hover
+{
+	
+	color: yellow;
+
+}
+.main ul
+{
+	border: 1px solid black;
+	padding: 10px;
+	margin-top: 0px;
+	background-color: transparent;
+	box-shadow: 19px,18px 21px;
+}
+body
+{
+	background: linear-gradient(rgba(0,0,0,0,65),rgba(0,0,0,0,65),rgba(0,0,0,0,38),rgba(0,0,0,0));
+	background:  url(4.jpg)no-repeat ;
+	background-size: cover;
+
+}  
+.letter{
+	border: 1px solid black;
+	width: 300px;
+	box-shadow: 5px 4px 8px 9px;
+	background-color: black;
+	border-radius: 2px;
+
+}
+.letter h2{
+	color: white;
+	font-family: candara;
+	text-align: left;
+}
+.fa-align-center{
+	color: yellow;
+}
+.letter{
+	border: 1px solid black;
+	width: 300px;
+	box-shadow: 5px 4px 8px 9px;
+	background-color: black;
+	border-radius: 2px;
+
+}
+input[type="text"],input[type="password"],input[type="button"]
+{
+	
+	width: 25%;
+	padding: 10px;
+	margin: 12px;
+}
+.container{
+	margin-left : 30%; 
+	margin-top: 150px;
+}
+.container label{
+	margin: 40px 20px; 
+}

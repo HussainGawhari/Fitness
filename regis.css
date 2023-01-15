@@ -1,0 +1,143 @@
+.box
+{
+	border: 1px solid black;
+	padding: 5px;
+	background-color: black;
+	box-shadow: 29px 18px 21px;
+
+}
+.icon a
+{
+	width: 50px;
+	color: white;
+	padding-left: 1px;
+
+}
+
+ul{
+	float: right;
+	font-family: candara;
+	font-size: 17px;
+}
+ul li
+{
+	float: left;
+	width: 120px;
+	text-decoration: none;
+	list-style-type: none;
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+
+}
+ul li a:hover
+{
+	
+	color: yellow;
+
+}
+.main ul
+{
+	border: 1px solid black;
+	padding: 10px;
+	margin-top: 0px;
+	background-color: transparent;
+	box-shadow: 19px,18px 21px;
+}
+
+
+.icon a
+{
+	width: 50px;
+	color: white;
+	padding-left: 1px;
+
+}
+
+ul{
+	float: right;
+	font-family: candara;
+	font-size: 17px;
+}
+ul li
+{
+	float: left;
+	width: 120px;
+	text-decoration: none;
+	list-style-type: none;
+}
+ul li a
+{
+	text-decoration: none;
+	color: white;
+
+}
+ul li a:hover
+{
+	
+	color: yellow;
+
+}
+.main ul
+{
+	border: 1px solid black;
+	padding: 10px;
+	margin-top: 0px;
+	background-color: transparent;
+	box-shadow: 19px,18px 21px;
+}
+
+body{
+	background:url(7.jpg);
+	background-size: cover;
+	
+}
+.letter h2{
+	color: white;
+	font-family: candara;
+	text-align: left;
+}
+.fa-align-center{
+	color: yellow;
+
+}
+
+.profile{
+	text-align: center;
+	color: white;
+	margin-top: 4%;
+	font-size: 36px;
+	padding: 10px;
+	
+
+}
+
+
+.in{
+	text-align: center;
+
+}
+.in input{
+	padding: 10px;
+	margin: 3px;
+	width: 30%;
+}
+input[type="radio"]
+{
+	
+	width: 1%;
+	padding: 13px;
+	margin: 12px;
+}
+ .gender label{
+	
+	
+	color: white;
+	
+	}
+	.gender label:hover{
+		border: 1px solid black;
+		color: yellow;
+	}
